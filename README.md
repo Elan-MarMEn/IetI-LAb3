@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://ietilab3alanmarin.herokuapp.com/)
 
+## Credentials
+email: Cualquiera
+password: koala
+
 ## Available Scripts
 
 In the project directory, you can run:
